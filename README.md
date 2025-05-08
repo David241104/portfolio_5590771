@@ -16,7 +16,7 @@ Dies ist David Cabas Canella's Flutter-Portfolio-Projekt für das Praktikum SS25
 
 So kannst du das Projekt lokal starten:
 
-```bash
+
 git clone https://github.com/David241104/portfolio_5590771.git
 cd portfolio_5590771
 flutter pub get
